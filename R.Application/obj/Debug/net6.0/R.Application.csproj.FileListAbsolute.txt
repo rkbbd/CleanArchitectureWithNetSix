@@ -1,0 +1,15 @@
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\R.Application.deps.json
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\R.Application.dll
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\ref\R.Application.dll
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\R.Application.pdb
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Application\bin\Debug\net6.0\R.Core.pdb
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.GlobalUsings.g.cs
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.csproj.AssemblyReference.cache
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.AssemblyInfoInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.AssemblyInfo.cs
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.csproj.CoreCompileInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.dll
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\ref\R.Application.dll
+D:\Project\Dot\RCleanArchitecture\R.Application\obj\Debug\net6.0\R.Application.pdb

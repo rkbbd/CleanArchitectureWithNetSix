@@ -1,0 +1,17 @@
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Infrastructure.deps.json
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Infrastructure.runtimeconfig.json
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Infrastructure.dll
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\ref\R.Infrastructure.dll
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Infrastructure.pdb
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\bin\Debug\net6.0\R.Core.pdb
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.GlobalUsings.g.cs
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.AssemblyInfo.cs
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.dll
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\ref\R.Infrastructure.dll
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.pdb
+D:\Project\Dot\RCleanArchitecture\R.Infrastructure\obj\Debug\net6.0\R.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c8a74b3-805d-4168-a057-5132ef966467": {
+      "ProjectGuid": "2c8a74b3-805d-4168-a057-5132ef966467",
+      "DisplayName": "R.API",
+      "ColorIndex": 0
+    },
+    "32b892c6-1482-49ea-a9b9-f035e9289abf": {
+      "ProjectGuid": "32b892c6-1482-49ea-a9b9-f035e9289abf",
+      "DisplayName": "R.Application",
+      "ColorIndex": 1
+    },
+    "4207f173-3f69-4427-bcf8-730a1a0c48ec": {
+      "ProjectGuid": "4207f173-3f69-4427-bcf8-730a1a0c48ec",
+      "DisplayName": "R.Core",
+      "ColorIndex": 2
+    },
+    "273a94fa-2b14-44ac-bec4-6645ce20de99": {
+      "ProjectGuid": "273a94fa-2b14-44ac-bec4-6645ce20de99",
+      "DisplayName": "R.Infrastructure",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

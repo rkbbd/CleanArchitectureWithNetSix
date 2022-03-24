@@ -1,0 +1,13 @@
+D:\Project\Dot\RCleanArchitecture\R.Core\bin\Debug\net6.0\R.Core.deps.json
+D:\Project\Dot\RCleanArchitecture\R.Core\bin\Debug\net6.0\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Core\bin\Debug\net6.0\ref\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Core\bin\Debug\net6.0\R.Core.pdb
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.GlobalUsings.g.cs
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.AssemblyInfoInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.AssemblyInfo.cs
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.csproj.CoreCompileInputs.cache
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\ref\R.Core.dll
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.pdb
+D:\Project\Dot\RCleanArchitecture\R.Core\obj\Debug\net6.0\R.Core.csproj.AssemblyReference.cache
